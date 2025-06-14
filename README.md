@@ -22,10 +22,9 @@ MSCS532_Assignment4
 ###  Run Sorting Benchmarks
 To run and compare **Heapsort**, **Mergesort**, and **Quicksort**:
 
-```bash
 python heapsort.py
 
-Summary of Findings
+## Summary of Findings
 
 Heapsort
 Consistently O(n log n) performance regardless of input distribution
