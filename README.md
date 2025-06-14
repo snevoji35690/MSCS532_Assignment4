@@ -14,6 +14,7 @@ This project includes:
 - No external libraries required
 
 ## File Structure
+MSCS532_Assignment4
 ├── heapsort.py # Heapsort algorithm with test and benchmark
 ├── priority_queue.py # Task and PriorityQueue class with all operations
 ├── README.md # Project documentation
