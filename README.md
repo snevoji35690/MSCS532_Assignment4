@@ -20,6 +20,7 @@ To run and compare **Heapsort**, **Mergesort**, and **Quicksort**:
 python heapsort.py
 
 Summary of Findings
+
 Heapsort
 Consistently O(n log n) performance regardless of input distribution
 
@@ -58,7 +59,7 @@ is_empty()
 
 Used for task scheduling based on priority and arrival time
 
-## Time Complexity Overview
+Time Complexity Overview
 Operation	Heapsort	Priority Queue
 Insert	N/A	O(log n)
 Extract Min/Max	O(log n)	O(log n)
